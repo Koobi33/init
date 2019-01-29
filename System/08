@@ -1,0 +1,4 @@
+Q: What file contains the RSA keys of systems that are authorized to connect via SSH?
+A:sh-keygen -t rsa
+Теперь публичный ключ хранится в /home/demo/.ssh/id_rsa.pub. Закрытый ключ хранится в /home/demo/.ssh/id_rsa.
+~/.ssh/authorized_keys

@@ -1,0 +1,2 @@
+Q: Explain how connect yourself as new user. (With graphic session and ssh session)
+A: ssh -p 2020 username@127.0.0.1
